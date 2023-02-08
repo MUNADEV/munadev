@@ -1,6 +1,6 @@
 # Ricardo Millanao Burgos 
 
-*Estudiante de último año de la carrera Ingeniería Informática en la Universidad de la Frontera* :desktop_computer:
+Estudiante de último año de la carrera Ingeniería Informática en la Universidad de la Frontera :desktop_computer:
  
  
  
