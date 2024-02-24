@@ -1,6 +1,6 @@
 # Ricardo Millanao Burgos 
 
-Egresado de la carrera Ingeniería Informática en la Universidad de la Frontera :desktop_computer:
+Ingeniero Informática egresado de la Universidad de la Frontera :desktop_computer:
  
  
  
